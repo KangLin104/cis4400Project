@@ -1,3 +1,15 @@
+#Project Info
+Group 1, Kevin Li, Kang Lin, Kamrul Kashem
+
+Rotten Tomatoes: Evaluation of box office movies based on reviews, box office information and the ratings of Rotten Tomatoes, money made from the box office.
+
+Requirements Your datawarehouse should be able to give the following  
+1) Best movie per genre based on average rating
+2) Best movie per year based on average rating 
+3) correlation between imdb rating and rotten tomatoes ratings 
+4) Your insights 
+5) Bonus, if you can find the budget and the revenue, that would be great! 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
